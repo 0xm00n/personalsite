@@ -14,3 +14,5 @@ however, this might change later when i add blog features to the site.
 but the overall goal is to not fall into the overengineering problem
 of the masses which plagues the entire web.
 ```
+
+simplicity = beauty
